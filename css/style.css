@@ -1,0 +1,25 @@
+.navbar-brand img{
+width: 175px;
+}
+.navbar{
+    background: green;
+}
+.accordion-button:not(.collapsed) {
+    color: white;
+    background-color: rgb(66, 10, 96);
+    
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: yellow;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    color: yellow;
+   
+}
+.dropdown-menu {
+   
+    --bs-dropdown-color: #12070b;
+    --bs-dropdown-bg: #c82660;
+    
+  
+}
